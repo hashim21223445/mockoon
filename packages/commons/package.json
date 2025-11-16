@@ -40,7 +40,7 @@
     "@typescript-eslint/eslint-plugin": "7.18.0",
     "@typescript-eslint/parser": "7.18.0",
     "eslint": "8.57.0",
-    "eslint-plugin-jsdoc": "48.10.2",
+    "eslint-plugin-jsdoc": "51.4.1",
     "mocha": "10.7.0",
     "ts-mocha": "10.0.0",
     "typescript": "5.5.4"
