@@ -42,7 +42,7 @@
     "eslint": "8.57.0",
     "eslint-plugin-jsdoc": "48.10.2",
     "mocha": "10.7.0",
-    "ts-mocha": "10.0.0",
+    "ts-mocha": "11.0.0",
     "typescript": "5.5.4"
   }
 }
