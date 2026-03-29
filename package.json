@@ -65,7 +65,7 @@
     "concurrently": "8.2.2",
     "dotenv": "16.4.5",
     "eslint-config-prettier": "9.1.0",
-    "lerna": "6.6.2",
+    "lerna": "7.0.0",
     "prettier": "3.3.3",
     "prettier-plugin-organize-imports": "4.0.0"
   }
